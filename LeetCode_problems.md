@@ -4,5 +4,6 @@
 **MEDIUM PROBLEMS**
 - Given a string s, we can use sorted(s) to get a list where each letter in s is sorted alphabetically. (LT #49)
 - Dynamic Programming. (LT #375)
+- Solved using Binary Search. How?? (LT #1760)
 
 **EASY PROBLEMS**
