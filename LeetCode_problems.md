@@ -6,5 +6,6 @@
 - Dynamic Programming. (LT #375)
 - Solved using Binary Search. How?? (LT #1760)
 - Greedy process scheduling. (LT #2054)
+- Using Binary Search to get special strings. How?? (LT #2981)
 
 **EASY PROBLEMS**
