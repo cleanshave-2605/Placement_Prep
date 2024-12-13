@@ -7,5 +7,6 @@
 - Solved using Binary Search. How?? (LT #1760)
 - Greedy process scheduling. (LT #2054)
 - Using Binary Search to get special strings. How?? (LT #2981)
+- In test case #856 and above, the score is not adding correctly. Why?? (LT #2593)
 
 **EASY PROBLEMS**
