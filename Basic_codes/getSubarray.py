@@ -1,9 +1,7 @@
 '''Getting the subarrays of an array'''
-def getSubarray(arr):
-    n = len(arr)
-    result = [[]]
-    for i in range(n):
-        result += [sub + [arr[i]] for sub in result]
-    return result
-
-print(getSubarray([1, 2, 3, 4]))
+def getSubarray(lst):
+    sublists_list = []
+    for i in range(len(lst)):
+        for j in range(i + 1, len(lst) + 1):
+            sublists_list.append(lst[i:j])
+    return sublists_list
