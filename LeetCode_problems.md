@@ -9,5 +9,6 @@
 - Using Binary Search to get special strings. How?? (LT #2981)
 - In test case #856 and above, the score is not adding correctly. Why?? (LT #2593)
 - Using sliding window and Dequeues to solve the question. (LT #2762)
+- Using heapify to solve the problem. (LT #1792)
 
 **EASY PROBLEMS**
