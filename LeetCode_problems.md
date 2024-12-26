@@ -10,5 +10,6 @@
 - In test case #856 and above, the score is not adding correctly. Why?? (LT #2593)
 - Using sliding window and Dequeues to solve the question. (LT #2762)
 - Using heapify to solve the problem. (LT #1792)
+- How to use DP to solve this? (LT #494)
 
 **EASY PROBLEMS**
