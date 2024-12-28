@@ -1,5 +1,6 @@
 **HARD PROBLEMS**
 - Heirholzer's algorithm to find the Euler path (LT #2097)
+- Sliding window to get sum of sub-arrays (LT #689)
 
 **MEDIUM PROBLEMS**
 - Given a string s, we can use sorted(s) to get a list where each letter in s is sorted alphabetically. (LT #49)
@@ -11,5 +12,6 @@
 - Using sliding window and Dequeues to solve the question. (LT #2762)
 - Using heapify to solve the problem. (LT #1792)
 - How to use DP to solve this? (LT #494)
+- Finding a solution in linear time (LT #134)
 
 **EASY PROBLEMS**
