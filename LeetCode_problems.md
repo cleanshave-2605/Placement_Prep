@@ -1,6 +1,7 @@
 **HARD PROBLEMS**
 - Heirholzer's algorithm to find the Euler path (LT #2097)
 - Sliding window to get sum of sub-arrays (LT #689)
+- Another DP disaster (LT #1639)
 
 **MEDIUM PROBLEMS**
 - Given a string s, we can use sorted(s) to get a list where each letter in s is sorted alphabetically. (LT #49)
