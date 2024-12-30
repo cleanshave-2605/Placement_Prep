@@ -14,5 +14,6 @@
 - Using heapify to solve the problem. (LT #1792)
 - How to use DP to solve this? (LT #494)
 - Finding a solution in linear time (LT #134)
+- Using DP to solve problems (LT #2466)
 
 **EASY PROBLEMS**
