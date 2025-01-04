@@ -15,5 +15,6 @@
 - How to use DP to solve this? (LT #494)
 - Finding a solution in linear time (LT #134)
 - Using DP to solve problems (LT #2466)
+- Using O^2 for getting subsequences. (LT #1930)
 
 **EASY PROBLEMS**
